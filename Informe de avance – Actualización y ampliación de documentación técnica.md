@@ -2,14 +2,15 @@
 
 Actualmente se encuentran actualizados o en proceso de actualización los siguientes procedimientos:
 
-- [**Cableado interno**](https://github.com/Eternet/Atencion.Clientes)
-- [**Sin navegación**](https://github.com/Eternet/Atencion.Clientes)
-- [**Sin conexión en dispositivo puntual**](https://github.com/Eternet/Atencion.Clientes)
-- [**No llega al abono contratado**](https://github.com/Eternet/Atencion.Clientes)
-- [**Lentitud**](https://github.com/Eternet/Atencion.Clientes)
-- [**Sin conexión - Eternet Plus**](https://github.com/Eternet/Atencion.Clientes)
-- [**Sin conexión FUTURA (ONU ok)**](https://github.com/Eternet/Atencion.Clientes)
-- [**Sin conexión (wireless ok)**](https://github.com/Eternet/Atencion.Clientes)
+- [**Cableado interno**](https://github.com/Eternet/Atencion.Clientes/blob/main/Documentacion/Manual-Operativo-Atencion-al-Cliente/doc/Cableado%20interno.md)
+- [**Sin navegación**](https://github.com/Eternet/Atencion.Clientes/blob/main/Documentacion/Manual-Operativo-Atencion-al-Cliente/doc/Sin%20navegación.md)
+- [**Sin conexión en dispositivo puntual**](https://github.com/Eternet/Atencion.Clientes/blob/main/Documentacion/Manual-Operativo-Atencion-al-Cliente/doc/Sin%20conexión%20en%20dispositivo%20puntual.md)
+- [**No llega al abono contratado**](https://github.com/Eternet/Atencion.Clientes/blob/main/Documentacion/Manual-Operativo-Atencion-al-Cliente/doc/Chequeo%20de%20no%20llegada%20al%20abono%20contratado.md)
+- [**Lentitud**](https://github.com/Eternet/Atencion.Clientes/blob/main/Documentacion/Manual-Operativo-Atencion-al-Cliente/doc/Lentitud.md)
+- [**Sin conexión - Eternet Plus**](https://github.com/Eternet/Atencion.Clientes/blob/main/Documentacion/Manual-Operativo-Atencion-al-Cliente/doc/Sin%20conexión%20–%20Eternet%20Plus.md)
+- [**Sin conexión FUTURA (ONU ok)**](https://github.com/Eternet/Atencion.Clientes/blob/main/Documentacion/Manual-Operativo-Atencion-al-Cliente/doc/Sin%20conexión%20FUTURA%20(ONU%20OK).md)
+- [**Sin conexión (wireless ok)**](https://github.com/Eternet/Atencion.Clientes/blob/main/Documentacion/Manual-Operativo-Atencion-al-Cliente/doc/Sin%20conexión%20(wireless%20ok).md)
+- [**Acondicionamiento de línea**](https://github.com/Eternet/Atencion.Clientes/blob/main/Documentacion/Manual-Operativo-Atencion-al-Cliente/doc/Acondicionamiento%20de%20línea.md)
 
 Estos procedimientos complementan la documentación previamente actualizada correspondiente a diagnósticos de **CPE afectados**, incluyendo:
 
